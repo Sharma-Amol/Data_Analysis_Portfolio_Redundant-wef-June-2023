@@ -15,7 +15,7 @@ This repository is to showcase my skills, share projects and track my progress t
 ![EU - Solid Fossil Fuel Imports](https://user-images.githubusercontent.com/118060473/202196959-35a0b13d-1ac3-4384-804d-851713a26b44.jpg)
 
 
-# Project 2. E-Commerce company – Focus on mobile app or website?
+# [Project 2. E-Commerce company – Focus on mobile app or website?](https://github.com/Sharma-Amol/E-Commerce_company-Focus_on_mobile_app_or_website)
 
 •	Data provided as csv (comma separated values) file by company containing customer information, session length, time on app and website, duration of membership, etc.
 
