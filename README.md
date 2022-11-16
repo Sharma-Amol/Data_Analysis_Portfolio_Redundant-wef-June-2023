@@ -28,7 +28,7 @@ This repository is to showcase my skills, share projects and track my progress t
 ![E Commerce Company](https://user-images.githubusercontent.com/118060473/202197066-b2a0bccf-8002-4785-a7aa-3047a75cb7df.jpg)
 
 
-# Project 3. Predicting Customer Ad Clicks
+# [Project 3. Predicting Customer Ad Clicks](https://github.com/Sharma-Amol/Predicting_Customer_Ad_Clicks)
 
 •	Dataset contained user features like daily time spent on site, age, area income, city, gender daily internet usage, etc.
 
