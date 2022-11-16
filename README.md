@@ -2,7 +2,7 @@
 This repository is to showcase my skills, share projects and track my progress towards AI-Driven Data Enlightenment.
 
 
-# Project 1. EU & India – Dependency on Russia for Energy Products.
+# [Project 1. EU & India – Dependency on Russia for Energy Products.](https://github.com/Sharma-Amol/EU_and_India-Dependency_on_Russia_for_Energy_Products)
 
 •	Collected information regarding Energy Mix, Fuel types, decadal trends in Energy Production and top 5 countries as import sources with emphasis on Russia.
 
