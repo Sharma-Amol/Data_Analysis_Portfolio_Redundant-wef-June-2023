@@ -1,5 +1,5 @@
 # Amol_Sharma-Data_Analysis_Portfolio 
-# Update - Redundant wef June 2023. Please refer directory for portfolio.
+## Update - Redundant wef June 2023. Please refer directory for portfolio.
 This repository is to showcase my skills, share projects and track my progress towards AI-Driven Data Enlightenment.
 
 
